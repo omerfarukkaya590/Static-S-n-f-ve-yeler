@@ -1,0 +1,15 @@
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\sınıflar\Static sınıf ve üye\bin\Debug\net7.0\Static sınıf ve üye.exe
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\sınıflar\Static sınıf ve üye\bin\Debug\net7.0\Static sınıf ve üye.deps.json
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\sınıflar\Static sınıf ve üye\bin\Debug\net7.0\Static sınıf ve üye.runtimeconfig.json
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\sınıflar\Static sınıf ve üye\bin\Debug\net7.0\Static sınıf ve üye.dll
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\sınıflar\Static sınıf ve üye\bin\Debug\net7.0\Static sınıf ve üye.pdb
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\sınıflar\Static sınıf ve üye\obj\Debug\net7.0\Static sınıf ve üye.csproj.AssemblyReference.cache
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\sınıflar\Static sınıf ve üye\obj\Debug\net7.0\Static sınıf ve üye.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\sınıflar\Static sınıf ve üye\obj\Debug\net7.0\Static sınıf ve üye.AssemblyInfoInputs.cache
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\sınıflar\Static sınıf ve üye\obj\Debug\net7.0\Static sınıf ve üye.AssemblyInfo.cs
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\sınıflar\Static sınıf ve üye\obj\Debug\net7.0\Static sınıf ve üye.csproj.CoreCompileInputs.cache
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\sınıflar\Static sınıf ve üye\obj\Debug\net7.0\Static sınıf ve üye.dll
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\sınıflar\Static sınıf ve üye\obj\Debug\net7.0\refint\Static sınıf ve üye.dll
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\sınıflar\Static sınıf ve üye\obj\Debug\net7.0\Static sınıf ve üye.pdb
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\sınıflar\Static sınıf ve üye\obj\Debug\net7.0\Static sınıf ve üye.genruntimeconfig.cache
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\sınıflar\Static sınıf ve üye\obj\Debug\net7.0\ref\Static sınıf ve üye.dll
