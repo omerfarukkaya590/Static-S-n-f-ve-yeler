@@ -1,0 +1,1 @@
+# Static-S-n-f-ve-yeler
